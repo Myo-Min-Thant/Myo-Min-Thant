@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myo Min Thant</h1>
-<h3 align="center">I'm an Embedded Software Engineer with 4 years of experience designing, implementing, and testing firmware for many applications. I'm passionate about developing code that is efficient, maintainable, and robust.</h3>
+#<h3 align="center">I'm an Embedded Software Engineer with 4 years of experience designing, implementing, and testing firmware for many applications. I'm passionate about developing code that is efficient, maintainable, and #robust.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
