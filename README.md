@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myo Min Thant</h1>
+<h3 align="center">Embedded Developer</h3>
 <!-- <h3 align="center">I'm an Embedded Software Engineer with 4 years of experience designing, implementing, and testing firmware for many applications. I'm passionate about developing code that is efficient, maintainable, and robust.</h3> -->
 <h4 align="center">As an experienced embedded developer, I am passionate about creating innovative software and firmware solutions for embedded systems. With 4 years of hands-on experience, I have a strong understanding of programming languages like C, C++, python and such as, allowing me to efficiently optimize code and maximize system performance.
 
